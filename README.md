@@ -53,6 +53,8 @@ If you ever need help, feel free to dm my parent, @Monarrk#5707
 
 4: Go to the console and type "refresh"
 
+You can view the actual source on glitch at https://glitch.com/edit/#!/butter-bot-js
+
 
 ### Contact Me
 You can contact me at **Monarrk#5707** on discord, or through the e-mail **developmentarc773@gmail.com**
