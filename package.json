@@ -1,0 +1,31 @@
+{
+  "name": "Butter-bot",
+  "version": "v0.3.0",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.5.0",
+    "moment": "^2.23.0",
+    "moment-duration-format": "^2.2.2",
+    "discord-money": "^0.2.0",
+    "sqlite3": "^4.0.4",
+    "better-sqlite3": "^5.2.1"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/butter-bot-js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
